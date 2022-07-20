@@ -1,0 +1,149 @@
+############################
+# OS X
+############################
+
+./bank-strapi-api/.DS_Store
+./bank-strapi-api/.AppleDouble
+./bank-strapi-api/.LSOverride
+./bank-strapi-api/Icon
+./bank-strapi-api/.Spotlight-V100
+./bank-strapi-api/.Trashes
+./bank-strapi-api/._*
+
+
+############################
+# Linux
+############################
+
+./bank-strapi-api/*~
+
+
+############################
+# Windows
+############################
+
+./bank-strapi-api/Thumbs.db
+./bank-strapi-api/ehthumbs.db
+./bank-strapi-api/Desktop.ini
+./bank-strapi-api/$RECYCLE.BIN/
+./bank-strapi-api/*.cab
+./bank-strapi-api/*.msi
+./bank-strapi-api/*.msm
+./bank-strapi-api/*.msp
+
+
+############################
+# Packages
+############################
+
+./bank-strapi-api/*.7z
+./bank-strapi-api/*.csv
+./bank-strapi-api/*.dat
+./bank-strapi-api/*.dmg
+./bank-strapi-api/*.gz
+./bank-strapi-api/*.iso
+./bank-strapi-api/*.jar
+./bank-strapi-api/*.rar
+./bank-strapi-api/*.tar
+./bank-strapi-api/*.zip
+./bank-strapi-api/*.com
+./bank-strapi-api/*.class
+./bank-strapi-api/*.dll
+./bank-strapi-api/*.exe
+./bank-strapi-api/*.o
+./bank-strapi-api/*.seed
+./bank-strapi-api/*.so
+./bank-strapi-api/*.swo
+./bank-strapi-api/*.swp
+./bank-strapi-api/*.swn
+./bank-strapi-api/*.swm
+./bank-strapi-api/*.out
+./bank-strapi-api/*.pid
+
+
+############################
+# Logs and databases
+############################
+
+./bank-strapi-api/.tmp
+./bank-strapi-api/*.log
+./bank-strapi-api/*.sql
+./bank-strapi-api/*.sqlite
+./bank-strapi-api/*.sqlite3
+
+
+############################
+# Misc.
+############################
+
+./bank-strapi-api/*#
+./bank-strapi-api/ssl
+./bank-strapi-api/.idea
+./bank-strapi-api/nbproject
+./bank-strapi-api/public/uploads/*
+./bank-strapi-api/!public/uploads/.gitkeep
+
+############################
+# Node.js
+############################
+
+./bank-strapi-api/lib-cov
+./bank-strapi-api/lcov.info
+./bank-strapi-api/pids
+./bank-strapi-api/logs
+./bank-strapi-api/results
+./bank-strapi-api/node_modules
+./bank-strapi-api/.node_history
+
+############################
+# Tests
+############################
+
+./bank-strapi-api/testApp
+./bank-strapi-api/coverage
+
+############################
+# Strapi
+############################
+
+./bank-strapi-api/.env
+./bank-strapi-api/license.txt
+./bank-strapi-api/exports
+./bank-strapi-api/*.cache
+./bank-strapi-api/build
+./bank-strapi-api/.strapi-updater.json
+
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+./strapi-bank/node_modules
+./strapi-bank/.pnp
+./strapi-bank/.pnp.js
+
+# testing
+./strapi-bank/coverage
+
+# next.js
+./strapi-bank/.next/
+./strapi-bank/out/
+
+# production
+./strapi-bank/build
+
+# misc
+./strapi-bank/.DS_Store
+./strapi-bank/*.pem
+
+# debug
+./strapi-bank/npm-debug.log*
+./strapi-bank/yarn-debug.log*
+./strapi-bank/yarn-error.log*
+./strapi-bank/.pnpm-debug.log*
+
+# local env files
+./strapi-bank/.env*.local
+
+# vercel
+./strapi-bank/.vercel
